@@ -1,0 +1,8 @@
+/* your-hexo/source/css/custom.css */
+
+:root {
+    --base-font-size: 16px;
+    --home-post-hover-scale: 1.03;
+    --first-screen-font-offset: -54px;
+    --post-update-datetime: none;
+}
